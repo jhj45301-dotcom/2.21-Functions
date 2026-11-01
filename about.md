@@ -1,5 +1,7 @@
 # 2.21 Functions
 
+<cr>GEODE BUTTON IS NOW IN SETTINGS!!!</c>
+
 2.21 Functions is a fan-made Geode mod by **PL Studio** for legally owned
 copies of Geometry Dash 2.2081.
 
