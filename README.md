@@ -9,11 +9,4 @@ Geode mod for Geometry Dash 2.2081.
 - Keeps the original `VERSUS` button as a safe inactive placeholder.
 - Supports Windows and Android through one `.geode` package.
 
-## Gauntlet artwork
-
-| Duality | Paradox |
-|:---:|:---:|
-| <img src="resources/PLDuality.png" alt="Duality Gauntlet island" width="220"> | <img src="resources/PLParadox.png" alt="Paradox Gauntlet island" width="220"> |
-
-The mod does not alter Geometry Dash save files and does not override the
-server's gauntlet list.
+The mod does not alter Geometry Dash save files.

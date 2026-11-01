@@ -22,19 +22,7 @@
     "files": [
       "resources/adventureLoop.mp3",
       "resources/map/*.png",
-      "resources/PLGauntletSheet.png",
-      "resources/PLGauntletSheet.plist",
-      "resources/PLGauntletSheet-hd.png",
-      "resources/PLGauntletSheet-hd.plist",
-      "resources/PLGauntletSheet-uhd.png",
-      "resources/PLGauntletSheet-uhd.plist",
       "resources/PLMapShadow.png"
-      ,"resources/PLDuality.png"
-      ,"resources/PLDuality-hd.png"
-      ,"resources/PLDuality-uhd.png"
-      ,"resources/PLParadox.png"
-      ,"resources/PLParadox-hd.png"
-      ,"resources/PLParadox-uhd.png"
     ]
   },
   "settings": {
