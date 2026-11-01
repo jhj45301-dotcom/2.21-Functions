@@ -1,0 +1,65 @@
+{
+  "geode": "5.11.2",
+  "gd": {
+    "win": "2.2081",
+    "android": "2.2081"
+  },
+  "id": "plstudio.adventure-tabs",
+  "name": "2.21 Functions",
+  "version": "v1.0.0",
+  "developer": "PL Studio",
+  "description": "Fan reconstruction of selected Geometry Dash 2.21 functions for Geometry Dash 2.208/2.2081: The Map and experimental Versus. Created by ploton445301 / PL Studio.",
+  "links": {
+    "source": "https://github.com/jhj45301-dotcom/2.21-Functions"
+  },
+  "dependencies": {
+    "geode.node-ids": {
+      "version": ">=1.23.3",
+      "importance": "required"
+    }
+  },
+  "resources": {
+    "files": [
+      "resources/adventureLoop.mp3",
+      "resources/map/*.png",
+      "resources/PLGauntletSheet.png",
+      "resources/PLGauntletSheet.plist",
+      "resources/PLGauntletSheet-hd.png",
+      "resources/PLGauntletSheet-hd.plist",
+      "resources/PLGauntletSheet-uhd.png",
+      "resources/PLGauntletSheet-uhd.plist",
+      "resources/PLMapShadow.png"
+      ,"resources/PLDuality.png"
+      ,"resources/PLDuality-hd.png"
+      ,"resources/PLDuality-uhd.png"
+      ,"resources/PLParadox.png"
+      ,"resources/PLParadox-hd.png"
+      ,"resources/PLParadox-uhd.png"
+    ]
+  },
+  "settings": {
+    "enable-the-map": {
+      "type": "bool",
+      "name": "Enable The Map",
+      "description": "Enable the restored colour The Map button.",
+      "default": true
+    },
+    "enable-versus": {
+      "type": "bool",
+      "name": "Enable Versus",
+      "description": "Show the coloured Versus button as a safe inactive placeholder.",
+      "default": true
+    },
+    "enable-debug-map": {
+      "type": "bool",
+      "name": "Enable Debug Map Button",
+      "description": "Show a debug button that opens The Map without completing The Tower.",
+      "default": false
+    }
+  },
+  "tags": [
+    "content",
+    "enhancement",
+    "interface"
+  ]
+}
