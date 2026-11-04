@@ -4,7 +4,11 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 project(PLStudioAdventure VERSION 1.0.0)
 
-add_library(${PROJECT_NAME} SHARED src/main.cpp)
+add_library(${PROJECT_NAME} SHARED
+    src/main.cpp
+    src/MapFeature.cpp
+    src/MenuHooks.cpp
+)
 
 if (NOT DEFINED ENV{GEODE_SDK})
     message(FATAL_ERROR "GEODE_SDK is not set. Run: geode sdk install")
